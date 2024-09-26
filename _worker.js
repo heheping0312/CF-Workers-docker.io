@@ -5,7 +5,9 @@ let hub_host = 'registry-1.docker.io';
 // Docker认证服务器地址
 const auth_url = 'https://auth.docker.io';
 // 自定义的工作服务器地址
-let workers_url = 'https://xxx/';
+let workers_url = 'https://cf-workers-docker-io-f1o.pages.dev';
+let workers_url = 'https//dockerhub.wuheping0312.net';
+
 
 let 屏蔽爬虫UA = ['netcraft'];
 
